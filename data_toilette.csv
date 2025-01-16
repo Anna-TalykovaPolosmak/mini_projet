@@ -1,0 +1,456 @@
+coordinates,tarif,accessibilite_pmr,indications_localisation,type,horaires,relais_bebe,commune,code_postal,departement,code_departement,latitude,longitude
+"[48.8323209997339, 2.3758022]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8323209997339,2.3758022
+"[48.860612782655, 2.3327384432682]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.860612782655,2.3327384432682
+"[48.8125123299419, 2.14968048627033]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Versailles,78646,Yvelines,78,48.8125123299419,2.14968048627033
+"[48.901013168485, 2.33540567728072]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),6:00-22:00,pas d'info,Paris,75056,Paris,75,48.901013168485,2.33540567728072
+"[48.84019224440348, 2.3794772572660587]",Gratuit,Oui,Station metro 14 - Bercy - Dans le couloir en direction des quais ligne 6 ou direction quais ligne 14.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.84019224440348,2.3794772572660587
+"[48.8971999, 2.222709]",Gratuit,Oui,Station RER A - Nanterre - Prefecture - A proximité du point de vente - information,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Nanterre,92050,Hauts-de-Seine,92,48.8971999,2.222709
+"[48.8313872997341, 2.5407302]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villiers-sur-Marne,94079,Val-de-Marne,94,48.8313872997341,2.5407302
+"[48.8226605997363, 2.3668592]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8226605997363,2.3668592
+"[48.828054399735, 2.356537]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.828054399735,2.356537
+"[48.8725354997239, 2.3265199]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8725354997239,2.3265199
+"[48.8409998997318, 2.4022022]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8409998997318,2.4022022
+"[48.9324566997091, 2.0418119]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Poissy,78498,Yvelines,78,48.9324566997091,2.0418119
+"[48.791477099744, 2.3641861]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villejuif,94076,Val-de-Marne,94,48.791477099744,2.3641861
+"[48.8607262997269, 2.3528287]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8607262997269,2.3528287
+"[48.4451744998297, 2.6031789]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Barbizon,77022,Seine-et-Marne,77,48.4451744998297,2.6031789
+"[48.892441799719, 2.4135582]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Pantin,93055,Seine-Saint-Denis,93,48.892441799719,2.4135582
+"[48.856324199728, 2.2963476]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.856324199728,2.2963476
+"[48.9426374997065, 2.3232811]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villeneuve-la-Garenne,92078,Hauts-de-Seine,92,48.9426374997065,2.3232811
+"[48.7164054997627, 2.2520478]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Palaiseau,91477,Essonne,91,48.7164054997627,2.2520478
+"[49.0553247996786, 2.5496522]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villeron,95675,Val-d'Oise,95,49.0553247996786,2.5496522
+"[48.8093146997396, 2.2171609]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Meudon,92048,Hauts-de-Seine,92,48.8093146997396,2.2171609
+"[48.8967303997179, 2.2766496]",Payant,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Levallois-Perret,92044,Hauts-de-Seine,92,48.8967303997179,2.2766496
+"[48.8379022997325, 2.3556275]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8379022997325,2.3556275
+"[48.791530499744, 2.290861]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Fontenay-aux-Roses,92032,Hauts-de-Seine,92,48.791530499744,2.290861
+"[48.8688976997248, 2.3439381]",pas d'info,Non,Mōpa,Toilettes dans un bâtiment recevant du public,Tu-Sa 12:00-21:30,pas d'info,Paris,75056,Paris,75,48.8688976997248,2.3439381
+"[48.7094159997644, 2.1683586]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Gif-sur-Yvette,91272,Essonne,91,48.7094159997644,2.1683586
+"[48.8909256997194, 2.4076981]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Pantin,93055,Seine-Saint-Denis,93,48.8909256997194,2.4076981
+"[48.8740735997236, 2.3293971]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8740735997236,2.3293971
+"[48.8329291997338, 2.3844702]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8329291997338,2.3844702
+"[48.8629126997263, 2.3621408]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8629126997263,2.3621408
+"[48.6280566997845, 2.0980714]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Forges-les-Bains,91249,Essonne,91,48.6280566997845,2.0980714
+"[48.9095505997148, 2.1786058]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Carrières-sur-Seine,78124,Yvelines,78,48.9095505997148,2.1786058
+"[48.6448824997804, 1.8196781]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Rambouillet,78517,Yvelines,78,48.6448824997804,1.8196781
+"[48.787692199745, 2.2291181]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Meudon,92048,Hauts-de-Seine,92,48.787692199745,2.2291181
+"[49.0143683483906, 2.07905026811645]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Neuville-sur-Oise,95450,Val-d'Oise,95,49.0143683483906,2.07905026811645
+"[48.8324873694921, 2.37255077465658]",pas d'info,Oui,La Felicità,Toilettes dans un bâtiment recevant du public,"Mo-We 09:00-00:00; Th, Fr 09:00-01:00; Sa 12:00-01:00",pas d'info,Paris,75056,Paris,75,48.8324873694921,2.37255077465658
+"[48.7622814997513, 2.4254024]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Choisy-le-Roi,94022,Val-de-Marne,94,48.7622814997513,2.4254024
+"[48.8646010997259, 2.4250495]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Bagnolet,93006,Seine-Saint-Denis,93,48.8646010997259,2.4250495
+"[48.839852999732, 2.2630812]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),6:00-22:00,pas d'info,Paris,75056,Paris,75,48.839852999732,2.2630812
+"[48.8383970997324, 2.2586199]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),6:00-22:00,pas d'info,Paris,75056,Paris,75,48.8383970997324,2.2586199
+"[48.8508343997293, 2.3703098]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8508343997293,2.3703098
+"[48.84078, 2.54804]",Gratuit,Oui,Station RER A - Noisy-le-Grand - Mont d'Est - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Noisy-le-Grand,93051,Seine-Saint-Denis,93,48.84078,2.54804
+"[48.869956563045214, 2.3253476474582184]",Gratuit,Oui,Station metro 14 - Madeleine - Sortie 1 dans la salle d'échange.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.869956563045214,2.3253476474582184
+"[48.8990445997174, 2.33406]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,Oui,Paris,75056,Paris,75,48.8990445997174,2.33406
+"[48.7842030997459, 2.0429889]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Montigny-le-Bretonneux,78423,Yvelines,78,48.7842030997459,2.0429889
+"[48.3382459998559, 2.5956905]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Ury,77477,Seine-et-Marne,77,48.3382459998559,2.5956905
+"[49.118623099663, 1.709294]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Chaussy,95150,Val-d'Oise,95,49.118623099663,1.709294
+"[48.5645776998002, 3.2944516]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,Oui,Provins,77379,Seine-et-Marne,77,48.5645776998002,3.2944516
+"[48.7742025997483, 2.4676155]",Payant,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Créteil,94028,Val-de-Marne,94,48.7742025997483,2.4676155
+"[48.5886139997943, 2.2498647]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Arpajon,91021,Essonne,91,48.5886139997943,2.2498647
+"[48.8631574997262, 2.3418325]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8631574997262,2.3418325
+"[48.8347427997333, 2.3935397]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8347427997333,2.3935397
+"[48.6077783997896, 2.3056731]",Payant,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Brétigny-sur-Orge,91103,Essonne,91,48.6077783997896,2.3056731
+"[48.6134352997882, 2.4718736]",Gratuit,Non,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Corbeil-Essonnes,91174,Essonne,91,48.6134352997882,2.4718736
+"[48.819774399737, 2.2521281]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Issy-les-Moulineaux,92040,Hauts-de-Seine,92,48.819774399737,2.2521281
+"[48.8550070997283, 2.3004317]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8550070997283,2.3004317
+"[48.8827171997214, 2.3434946]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8827171997214,2.3434946
+"[48.8526558997289, 2.368358]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8526558997289,2.368358
+"[48.9563013997032, 2.3408062]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villetaneuse,93079,Seine-Saint-Denis,93,48.9563013997032,2.3408062
+"[48.8637733997261, 2.3892166]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8637733997261,2.3892166
+"[48.7950313997432, 2.3329185]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),"Jan,Feb,Nov,Dec 09:00-17:00; Mar,Oct 08:30-19:00; Apr,Sep 08:00-20:00; May-Aug 08:00-21:30",pas d'info,Cachan,94016,Val-de-Marne,94,48.7950313997432,2.3329185
+"[48.8391382997322, 2.3560271]",pas d'info,Non,Baca'v,Toilettes dans un bâtiment recevant du public (Toilettes assises),"Mo-Fr 12:00-14:00, 19:00-22:30, Sa-Su closed",pas d'info,Paris,75056,Paris,75,48.8391382997322,2.3560271
+"[48.823912199736, 2.3656944]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.823912199736,2.3656944
+"[48.7122176997637, 2.2422572]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Palaiseau,91477,Essonne,91,48.7122176997637,2.2422572
+"[48.7933286997436, 2.3664377]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villejuif,94076,Val-de-Marne,94,48.7933286997436,2.3664377
+"[48.8489517997298, 2.357195]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8489517997298,2.357195
+"[48.8127714997387, 2.3844737]",pas d'info,Oui,Salle municipale de quartier Voltaire,Toilettes dans un bâtiment recevant du public (Toilettes assises),pas d'info,pas d'info,Ivry-sur-Seine,94041,Val-de-Marne,94,48.8127714997387,2.3844737
+"[48.8758588997231, 2.3049323]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8758588997231,2.3049323
+"[48.8666835997254, 2.3233339]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8666835997254,2.3233339
+"[48.6281659997845, 2.0979018]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Forges-les-Bains,91249,Essonne,91,48.6281659997845,2.0979018
+"[48.7854657166454, 2.21921880651123]",Payant,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Meudon,92048,Hauts-de-Seine,92,48.7854657166454,2.21921880651123
+"[48.8637853794457, 2.39672507600529]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8637853794457,2.39672507600529
+"[48.811132526147, 2.36438890128748]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Ivry-sur-Seine,94041,Val-de-Marne,94,48.811132526147,2.36438890128748
+"[48.7021598497683, 2.25730099999915]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villebon-sur-Yvette,91661,Essonne,91,48.7021598497683,2.25730099999915
+"[48.8598628492651, 2.38935321818872]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8598628492651,2.38935321818872
+"[48.781723299756, 2.22150944999945]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Vélizy-Villacoublay,78640,Yvelines,78,48.781723299756,2.22150944999945
+"[48.8597612883593, 2.33589538344837]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8597612883593,2.33589538344837
+"[48.8627431921238, 2.34603486279919]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,Oui,Paris,75056,Paris,75,48.8627431921238,2.34603486279919
+"[48.8852657095676, 2.32735985029577]",pas d'info,Oui,Le BAL,Toilettes dans un bâtiment recevant du public (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8852657095676,2.32735985029577
+"[48.7624622997512, 2.3003077]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Antony,92002,Hauts-de-Seine,92,48.7624622997512,2.3003077
+"[48.896362799718, 2.3530123]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.896362799718,2.3530123
+"[48.8458130997305, 2.255987]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),6:00-22:00,pas d'info,Paris,75056,Paris,75,48.8458130997305,2.255987
+"[48.8719418497709, 2.7759658631477]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,Oui,Chessy,77111,Seine-et-Marne,77,48.8719418497709,2.7759658631477
+"[48.8269104, 2.3661972]",Gratuit,Oui,Station metro 14 - Olympiades - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.8269104,2.3661972
+"[48.78730304269838, 2.3674101521293744]",Gratuit,Oui,"Station metro 7 - Villejuif - Louis Aragon - Sortie 2, Maxime Gorki vers la gare routière.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Villejuif,94076,Val-de-Marne,94,48.78730304269838,2.3674101521293744
+"[48.8656737, 2.3344599]",Gratuit,Oui,Station metro 14 - Pyramides - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.8656737,2.3344599
+"[48.88722206053287, 2.170623204930391]",Gratuit,Oui,"Station RER A - Rueil-Malmaison - A proximité de la ligne de valideurs, en direction des sorties.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Rueil-Malmaison,92063,Hauts-de-Seine,92,48.88722206053287,2.170623204930391
+"[48.891826754836515, 2.237992043215619]",Gratuit,Oui,"Station RER A - La Defense (Grande Arche) - A proximité de la zone SNCF, à l'opposé de l'entrée du tramway T2.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Puteaux,92062,Hauts-de-Seine,92,48.891826754836515,2.237992043215619
+"[48.82978526345046, 2.3776037993133134]",Gratuit,Oui,Station metro 14 - Bibliotheque Francois Mitterrand - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.82978526345046,2.3776037993133134
+"[48.83346, 2.38607]",Gratuit,Oui,"Station metro 14 - Cour Saint-Emilion - Dans la salle d'échange, à proximité du point de vente - information",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.83346,2.38607
+"[48.8703137997245, 2.3333138]",pas d'info,pas d'info,tiger sugar,Toilettes dans un bâtiment recevant du public,pas d'info,pas d'info,Paris,75056,Paris,75,48.8703137997245,2.3333138
+"[48.8354224997331, 2.3805835]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8354224997331,2.3805835
+"[48.8547605997284, 2.2898648]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8547605997284,2.2898648
+"[48.8445763997309, 2.3615857]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8445763997309,2.3615857
+"[48.3824217998451, 2.9570376]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Montereau-Fault-Yonne,77305,Seine-et-Marne,77,48.3824217998451,2.9570376
+"[48.6051147997902, 2.2977386]",Gratuit,Oui,pas d'info,Toilettes publiques,Mo-Su 09:00-20:00,pas d'info,Brétigny-sur-Orge,91103,Essonne,91,48.6051147997902,2.2977386
+"[49.0157241996884, 2.5394962]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Mauregard,77282,Seine-et-Marne,77,49.0157241996884,2.5394962
+"[48.8551024997283, 2.2959032]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8551024997283,2.2959032
+"[48.824064099736, 2.3530964]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.824064099736,2.3530964
+"[48.872276999724, 2.3766303]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.872276999724,2.3766303
+"[48.8683944997249, 2.3634046]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8683944997249,2.3634046
+"[48.8572592997277, 2.2911077]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8572592997277,2.2911077
+"[48.8550314997283, 2.3449206]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8550314997283,2.3449206
+"[48.3121349998623, 1.998542]",Gratuit,pas d'info,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Angerville,91016,Essonne,91,48.3121349998623,1.998542
+"[48.8599047997271, 2.384615]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8599047997271,2.384615
+"[48.8693980997247, 2.3535083]",Gratuit,Oui,pas d'info,Toilettes publiques,24/7,pas d'info,Paris,75056,Paris,75,48.8693980997247,2.3535083
+"[48.5392378998065, 2.6640001]",Payant,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Melun,77288,Seine-et-Marne,77,48.5392378998065,2.6640001
+"[48.7706347997492, 2.2700042]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Châtenay-Malabry,92019,Hauts-de-Seine,92,48.7706347997492,2.2700042
+"[48.8513837997292, 2.3204967]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8513837997292,2.3204967
+"[48.8362019997329, 2.3276082]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8362019997329,2.3276082
+"[48.8830988997213, 2.3252344]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8830988997213,2.3252344
+"[48.6173593997872, 2.4087927]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Évry-Courcouronnes,91228,Essonne,91,48.6173593997872,2.4087927
+"[48.824062699736, 2.3868718]",Gratuit,Oui,pas d'info,Toilettes publiques,Mo-Su 09:00-20:00,pas d'info,Ivry-sur-Seine,94041,Val-de-Marne,94,48.824062699736,2.3868718
+"[48.8931297997188, 2.4284515]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Romainville,93063,Seine-Saint-Denis,93,48.8931297997188,2.4284515
+"[48.8416801997316, 2.3556271]",pas d'info,Oui,Salon de Thé de La Mosquée de Paris,Toilettes dans un bâtiment recevant du public (Toilettes assises),Mo-Su 09:00-24:00,pas d'info,Paris,75056,Paris,75,48.8416801997316,2.3556271
+"[48.8535375997286, 2.3539021]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8535375997286,2.3539021
+"[48.9056219997157, 2.1807232]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Carrières-sur-Seine,78124,Yvelines,78,48.9056219997157,2.1807232
+"[48.8846298997209, 2.3875019]",pas d'info,Non,pas d'info,Toilettes publiques,08:00-18:00,pas d'info,Paris,75056,Paris,75,48.8846298997209,2.3875019
+"[48.8218052997365, 2.3653093]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8218052997365,2.3653093
+"[48.8316606997341, 2.2879428]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8316606997341,2.2879428
+"[48.8295437997346, 2.3344682]",Payant,Non,pas d'info,Toilettes publiques,Tu-Su 10:00-20:30,pas d'info,Paris,75056,Paris,75,48.8295437997346,2.3344682
+"[48.6459147997801, 2.078081]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Limours,91338,Essonne,91,48.6459147997801,2.078081
+"[48.8462254997305, 2.3548776]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8462254997305,2.3548776
+"[48.9685979997001, 2.2546776]",Gratuit,pas d'info,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Sannois,95582,Val-d'Oise,95,48.9685979997001,2.2546776
+"[48.8577071997276, 2.4060091]",Gratuit,Oui,Toilettes,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8577071997276,2.4060091
+"[48.7818453026288, 2.22158298085513]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Vélizy-Villacoublay,78640,Yvelines,78,48.7818453026288,2.22158298085513
+"[48.3742127673458, 2.81675757721031]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Moret-Loing-et-Orvanne,77316,Seine-et-Marne,77,48.3742127673458,2.81675757721031
+"[48.8556031914931, 2.78391380791278]",Gratuit,pas d'info,Toilettes des Terrases,Toilettes publiques,pas d'info,pas d'info,Serris,77449,Seine-et-Marne,77,48.8556031914931,2.78391380791278
+"[48.9113760391471, 2.25665831416721]",Gratuit,Non,Marché des Vallées,Toilettes dans un bâtiment recevant du public,"Tu,Fr,Su 08:00-13:00",pas d'info,La Garenne-Colombes,92035,Hauts-de-Seine,92,48.9113760391471,2.25665831416721
+"[48.817267298656, 2.31579340395858]",Gratuit,Oui,pas d'info,Toilettes publiques,24/7,pas d'info,Montrouge,92049,Hauts-de-Seine,92,48.817267298656,2.31579340395858
+"[48.9045346936994, 2.33179760186098]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Saint-Ouen-sur-Seine,93070,Seine-Saint-Denis,93,48.9045346936994,2.33179760186098
+"[48.8689990497256, 2.13866354999992]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Bougival,78092,Yvelines,78,48.8689990497256,2.13866354999992
+"[49.0204465496978, 1.54631709999974]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,La Villeneuve-en-Chevrie,78668,Yvelines,78,49.0204465496978,1.54631709999974
+"[48.7130084997665, 2.40308624999964]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Athis-Mons,91027,Essonne,91,48.7130084997665,2.40308624999964
+"[48.9740384996988, 2.2878095]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Saint-Gratien,95555,Val-d'Oise,95,48.9740384996988,2.2878095
+"[48.9864948996957, 1.6723819]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,Oui,Buchelay,78118,Yvelines,78,48.9864948996957,1.6723819
+"[48.9267733997105, 1.9899186]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Orgeval,78466,Yvelines,78,48.9267733997105,1.9899186
+"[48.5872822997946, 2.6008074]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Cesson,77067,Seine-et-Marne,77,48.5872822997946,2.6008074
+"[48.880220299722, 2.3090247]",Gratuit,Non,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.880220299722,2.3090247
+"[48.8124500483102, 2.14967613809451]",pas d'info,pas d'info,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Versailles,78646,Yvelines,78,48.8124500483102,2.14967613809451
+"[48.8950462710121, 2.1956095209931936]",Gratuit,Oui,Station RER A - Nanterre - Ville - Sur le quai en direction de Paris.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Nanterre,92050,Hauts-de-Seine,92,48.8950462710121,2.1956095209931936
+"[48.858857284381365, 2.347769856742684]",Gratuit,Oui,"Station RER A - Chatelet - A proximité de la sortie 3, Forum - Porte Lescot, en face du comptoir d'info",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.858857284381365,2.347769856742684
+"[48.80641960896216, 2.47204505094563]",Gratuit,Oui,"Station RER A - Saint-Maur - Creteil - A l'extérieur de la gare, côté autobus.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Saint-Maur-des-Fossés,94068,Val-de-Marne,94,48.80641960896216,2.47204505094563
+"[48.70286868424979, 2.070600214521146]",Gratuit,Oui,"Station RER B - Saint-Remy-les-Chevreuse - A l'extérieur de la gare, dans le prolongement de la gare.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Saint-Rémy-lès-Chevreuse,78575,Yvelines,78,48.70286868424979,2.070600214521146
+"[48.87346419088715, 2.2963810880084012]",Gratuit,Oui,"Station RER A - Charles de Gaulle - Etoile - A proximité du point de vente - information situé sortie avenue des Champs-Elysées, après la ligne de valideurs",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.87346419088715,2.2963810880084012
+"[48.8153713, 2.3408362]",Gratuit,Oui,Station RER B - Gentilly - Sur le quai direction Paris.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Gentilly,94037,Val-de-Marne,94,48.8153713,2.3408362
+"[48.85079575570429, 2.3450308883652258]",Payant,Oui,"Station metro 10 - Cluny - La Sorbonne - Sortie 2 boulevard St-Germain, à proximité du point de vente - information.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.85079575570429,2.3450308883652258
+"[48.798366, 2.327766]",Gratuit,Oui,"Station RER B - Arcueil Cachan - A l'extérieur de la gare, dans un bâtiment indépendant.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Cachan,94016,Val-de-Marne,94,48.798366,2.327766
+"[48.8624562997264, 2.3145791]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8624562997264,2.3145791
+"[48.8627177997264, 1.7886313]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Thoiry,78616,Yvelines,78,48.8627177997264,1.7886313
+"[48.7202681997617, 2.4925225]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Yerres,91691,Essonne,91,48.7202681997617,2.4925225
+"[48.8344733997334, 2.4715623]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Nogent-sur-Marne,94052,Val-de-Marne,94,48.8344733997334,2.4715623
+"[48.8438729997311, 2.2684588]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8438729997311,2.2684588
+"[48.7929359997437, 2.497445]",pas d'info,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Saint-Maur-des-Fossés,94068,Val-de-Marne,94,48.7929359997437,2.497445
+"[48.8745946997234, 2.36274]",Gratuit,Oui,pas d'info,Toilettes publiques,24/7,pas d'info,Paris,75056,Paris,75,48.8745946997234,2.36274
+"[48.8049065997407, 2.3823077]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Ivry-sur-Seine,94041,Val-de-Marne,94,48.8049065997407,2.3823077
+"[48.8461279997305, 2.340049]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8461279997305,2.340049
+"[48.8614055997267, 2.3545336]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8614055997267,2.3545336
+"[48.8312178997342, 2.369858]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8312178997342,2.369858
+"[48.8715446997242, 2.402125]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8715446997242,2.402125
+"[48.8654895997257, 2.4732562]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Montreuil,93048,Seine-Saint-Denis,93,48.8654895997257,2.4732562
+"[48.8291236997347, 2.3607208]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8291236997347,2.3607208
+"[48.9494242997049, 2.8841125]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Meaux,77284,Seine-et-Marne,77,48.9494242997049,2.8841125
+"[48.9302200997096, 2.4951471]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Aulnay-sous-Bois,93005,Seine-Saint-Denis,93,48.9302200997096,2.4951471
+"[48.8693221997247, 2.3257834]",pas d'info,Oui,IKEA City,Toilettes dans un bâtiment recevant du public (Toilettes assises),Mo-Sa 10:00-20:00; Su 11:00-20:00,pas d'info,Paris,75056,Paris,75,48.8693221997247,2.3257834
+"[48.9593883997024, 2.8840217]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Meaux,77284,Seine-et-Marne,77,48.9593883997024,2.8840217
+"[48.8297195997345, 2.2405072]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Boulogne-Billancourt,92012,Hauts-de-Seine,92,48.8297195997345,2.2405072
+"[48.8926288997189, 2.4286473]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Romainville,93063,Seine-Saint-Denis,93,48.8926288997189,2.4286473
+"[48.8353259997332, 2.4089938]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8353259997332,2.4089938
+"[48.6287249997844, 2.0808309]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Forges-les-Bains,91249,Essonne,91,48.6287249997844,2.0808309
+"[48.831969899734, 2.3131401]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.831969899734,2.3131401
+"[48.8486333997299, 2.3552714]",Gratuit,Non,pas d'info,Toilettes publiques (urinoir),24/7,pas d'info,Paris,75056,Paris,75,48.8486333997299,2.3552714
+"[48.9849582996961, 1.7161752]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Mantes-la-Jolie,78361,Yvelines,78,48.9849582996961,1.7161752
+"[48.8444691997309, 2.3771664]",Gratuit,Non,pas d'info,Toilettes publiques (urinoir),24/7,pas d'info,Paris,75056,Paris,75,48.8444691997309,2.3771664
+"[48.8508410997293, 2.3741937]",pas d'info,Non,Bistro S,Toilettes dans un bâtiment recevant du public (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8508410997293,2.3741937
+"[48.8772209997228, 1.943741]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Crespières,78189,Yvelines,78,48.8772209997228,1.943741
+"[48.9035952692769, 2.2328825426789]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,La Garenne-Colombes,92035,Hauts-de-Seine,92,48.9035952692769,2.2328825426789
+"[48.8242973839381, 2.27783387418293]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Issy-les-Moulineaux,92040,Hauts-de-Seine,92,48.8242973839381,2.27783387418293
+"[48.5495468717224, 2.37419793964186]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Vert-le-Petit,91649,Essonne,91,48.5495468717224,2.37419793964186
+"[48.8096265740996, 2.18902883187559]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Chaville,92022,Hauts-de-Seine,92,48.8096265740996,2.18902883187559
+"[48.5647527645176, 2.59369822562148]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Cesson,77067,Seine-et-Marne,77,48.5647527645176,2.59369822562148
+"[48.891795248794, 2.38803318309018]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.891795248794,2.38803318309018
+"[48.7782613139674, 2.53147972636187]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Ormesson-sur-Marne,94055,Val-de-Marne,94,48.7782613139674,2.53147972636187
+"[48.8313424478942, 2.34813672388469]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,Oui,Paris,75056,Paris,75,48.8313424478942,2.34813672388469
+"[48.4212677274553, 2.94300503625398]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Forges,77194,Seine-et-Marne,77,48.4212677274553,2.94300503625398
+"[48.8392272912246, 2.30633162442334]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8392272912246,2.30633162442334
+"[48.8465166065307, 2.31694624417828]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8465166065307,2.31694624417828
+"[48.835939999733, 2.3755483]",pas d'info,Non,pas d'info,Toilettes publiques (urinoir),24/7,pas d'info,Paris,75056,Paris,75,48.835939999733,2.3755483
+"[49.0315172996845, 2.4634809]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Goussainville,95280,Val-d'Oise,95,49.0315172996845,2.4634809
+"[48.84082, 2.55154]",Gratuit,Oui,Station RER A - Noisy-le-Grand - Mont d'Est - Accès par la gare routière.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Noisy-le-Grand,93051,Seine-Saint-Denis,93,48.84082,2.55154
+"[48.87552856932788, 2.324120111297863]",Gratuit,Oui,Station metro 14 - Saint Lazare - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.87552856932788,2.324120111297863
+"[48.8740658, 2.2951493]",Gratuit,Non,"Station RER A - Charles de Gaulle - Etoile - Sortie avenue Carnot, après la ligne de valideurs en venant de l'extérieur de la gare.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.8740658,2.2951493
+"[48.84391523960347, 2.3728897698814633]",Gratuit,Oui,Station metro 14 - Gare de Lyon - En direction de la sortie 13.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.84391523960347,2.3728897698814633
+"[48.8322442997339, 2.31952]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8322442997339,2.31952
+"[48.6457459997802, 2.259832]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Montlhéry,91425,Essonne,91,48.6457459997802,2.259832
+"[48.8260993997354, 2.3937]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Charenton-le-Pont,94018,Val-de-Marne,94,48.8260993997354,2.3937
+"[48.3497017998531, 2.6061121]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Ury,77477,Seine-et-Marne,77,48.3497017998531,2.6061121
+"[48.8378553997325, 2.6604942]",Gratuit,Oui,pas d'info,Toilettes publiques,Mo-Sa 08:30-22:00,Oui,Collégien,77121,Seine-et-Marne,77,48.8378553997325,2.6604942
+"[48.8474477997301, 2.3954957]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8474477997301,2.3954957
+"[48.8668873997253, 2.3528247]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8668873997253,2.3528247
+"[48.8615565997267, 2.0960747]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Marly-le-Roi,78372,Yvelines,78,48.8615565997267,2.0960747
+"[48.8262143997354, 2.3748087]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8262143997354,2.3748087
+"[48.5611342998011, 3.2949493]",pas d'info,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Provins,77379,Seine-et-Marne,77,48.5611342998011,3.2949493
+"[48.8283717997349, 2.3766535]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8283717997349,2.3766535
+"[48.8364058997329, 2.4010293]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8364058997329,2.4010293
+"[48.8336950997336, 2.3651195]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8336950997336,2.3651195
+"[48.8378587997326, 2.4114608]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8378587997326,2.4114608
+"[48.831751699734, 2.4861746]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Nogent-sur-Marne,94052,Val-de-Marne,94,48.831751699734,2.4861746
+"[48.811924799739, 2.3561317]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Le Kremlin-Bicêtre,94043,Val-de-Marne,94,48.811924799739,2.3561317
+"[48.8262165997354, 2.3382475]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8262165997354,2.3382475
+"[48.8694214997247, 2.3127592]",Gratuit,Oui,pas d'info,Toilettes publiques,24/7,pas d'info,Paris,75056,Paris,75,48.8694214997247,2.3127592
+"[48.8868475997204, 2.1724419]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Rueil-Malmaison,92063,Hauts-de-Seine,92,48.8868475997204,2.1724419
+"[48.8536893997286, 2.3113253]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8536893997286,2.3113253
+"[48.8345617997334, 2.3818103]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8345617997334,2.3818103
+"[48.8973013997178, 2.3856514]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8973013997178,2.3856514
+"[49.0712556996747, 2.1724746]",Gratuit,pas d'info,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Auvers-sur-Oise,95039,Val-d'Oise,95,49.0712556996747,2.1724746
+"[48.7904955997443, 2.4583791]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Créteil,94028,Val-de-Marne,94,48.7904955997443,2.4583791
+"[48.8327226997338, 2.3726897]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,Oui,Paris,75056,Paris,75,48.8327226997338,2.3726897
+"[48.8740642997236, 2.3764033]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8740642997236,2.3764033
+"[48.8213808997366, 2.3205661]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8213808997366,2.3205661
+"[48.811978399739, 2.4744594]",Payant,Non,Place d'Arme/Avenue de Condé,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Saint-Maur-des-Fossés,94068,Val-de-Marne,94,48.811978399739,2.4744594
+"[48.7578210997524, 2.3873814]",Gratuit,pas d'info,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,Oui,Thiais,94073,Val-de-Marne,94,48.7578210997524,2.3873814
+"[48.8000192997419, 2.1836212]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Viroflay,78686,Yvelines,78,48.8000192997419,2.1836212
+"[48.8269178997352, 2.3661183]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8269178997352,2.3661183
+"[49.0346551996838, 2.0728356]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Cergy,95127,Val-d'Oise,95,49.0346551996838,2.0728356
+"[48.8535002997287, 2.3697659]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8535002997287,2.3697659
+"[48.7218651997613, 2.4522273]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villeneuve-Saint-Georges,94078,Val-de-Marne,94,48.7218651997613,2.4522273
+"[48.6452471997803, 2.1525257]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Janvry,91319,Essonne,91,48.6452471997803,2.1525257
+"[48.7560327997528, 2.3723412]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Thiais,94073,Val-de-Marne,94,48.7560327997528,2.3723412
+"[48.8432429997312, 2.3507801]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8432429997312,2.3507801
+"[48.8954972997183, 2.3101151]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8954972997183,2.3101151
+"[48.9075459997152, 2.3460586]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Saint-Ouen-sur-Seine,93070,Seine-Saint-Denis,93,48.9075459997152,2.3460586
+"[48.9446906749263, 2.39827762663407]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,La Courneuve,93027,Seine-Saint-Denis,93,48.9446906749263,2.39827762663407
+"[48.856419356049, 2.78055105720105]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,Oui,Serris,77449,Seine-et-Marne,77,48.856419356049,2.78055105720105
+"[48.8119792060225, 2.47445890179976]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Saint-Maur-des-Fossés,94068,Val-de-Marne,94,48.8119792060225,2.47445890179976
+"[48.9032988375469, 1.61921795326437]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Dammartin-en-Serve,78192,Yvelines,78,48.9032988375469,1.61921795326437
+"[48.3125020151102, 2.63631070599908]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villiers-sous-Grez,77520,Seine-et-Marne,77,48.3125020151102,2.63631070599908
+"[48.8667883833249, 2.3495766578313]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,Oui,Paris,75056,Paris,75,48.8667883833249,2.3495766578313
+"[48.9181100160745, 2.31608606424986]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Asnières-sur-Seine,92004,Hauts-de-Seine,92,48.9181100160745,2.31608606424986
+"[48.820810050002, 2.31353327195032]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Montrouge,92049,Hauts-de-Seine,92,48.820810050002,2.31353327195032
+"[48.6750845748214, 2.20261194355626]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Les Ulis,91692,Essonne,91,48.6750845748214,2.20261194355626
+"[48.8236824954312, 2.38688849863233]",pas d'info,Oui,Leroy Merlin Ivry-sur-Seine,Toilettes dans un bâtiment recevant du public,Mo-Su 09:00-20:00,pas d'info,Ivry-sur-Seine,94041,Val-de-Marne,94,48.8236824954312,2.38688849863233
+"[48.861884592124, 2.34454716279919]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,Oui,Paris,75056,Paris,75,48.861884592124,2.34454716279919
+"[48.8606240911762, 2.33268984540965]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8606240911762,2.33268984540965
+"[48.8992889997173, 2.3405384]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8992889997173,2.3405384
+"[48.8909691997194, 2.3772457]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),6:00-22:00,pas d'info,Paris,75056,Paris,75,48.8909691997194,2.3772457
+"[48.8332144, 2.3333365]",Gratuit,Non,"Station RER B - Denfert-Rochereau - Sur le quai ligne B, en direction de Saint-Rémy-Lès-Chevreuse.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.8332144,2.3333365
+"[48.84436, 2.37291]",Gratuit,Oui,"Station RER A - Gare de Lyon - A proximité du haut de l'escalator menant vers la tête de quai, direction Paris.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.84436,2.37291
+"[48.8484803444062, 2.39676520957729]",Gratuit,Oui,"Station RER A - Nation - En allant des quais du RER vers les quais de la ligne 1, 2 et 6, en bas des escalators.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.8484803444062,2.39676520957729
+"[48.901251906231444, 2.21599944]",Gratuit,Oui,"Station RER A - Nanterre - Universite - A l'extérieur, sur le parvis",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Nanterre,92050,Hauts-de-Seine,92,48.901251906231444,2.21599944
+"[48.8293079997346, 2.3652192]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8293079997346,2.3652192
+"[48.8881778997201, 2.3737438]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8881778997201,2.3737438
+"[48.6353425997827, 2.3066757]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Saint-Michel-sur-Orge,91570,Essonne,91,48.6353425997827,2.3066757
+"[48.8635787997261, 1.7927137]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Thoiry,78616,Yvelines,78,48.8635787997261,1.7927137
+"[48.8398256997321, 2.2298491]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Boulogne-Billancourt,92012,Hauts-de-Seine,92,48.8398256997321,2.2298491
+"[48.4258497998344, 2.9277447]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Forges,77194,Seine-et-Marne,77,48.4258497998344,2.9277447
+"[48.8055151997406, 2.4968445]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Saint-Maur-des-Fossés,94068,Val-de-Marne,94,48.8055151997406,2.4968445
+"[48.8461068997305, 2.3765509]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8461068997305,2.3765509
+"[48.3192127998606, 2.993449]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Montmachoux,77313,Seine-et-Marne,77,48.3192127998606,2.993449
+"[48.8662566997255, 2.3650028]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8662566997255,2.3650028
+"[48.9032645997163, 2.4581889]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Bobigny,93008,Seine-Saint-Denis,93,48.9032645997163,2.4581889
+"[48.8578341997276, 2.3558096]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8578341997276,2.3558096
+"[48.1811139998941, 2.7307452]",Gratuit,pas d'info,pas d'info,Toilettes publiques,24/7,pas d'info,Souppes-sur-Loing,77458,Seine-et-Marne,77,48.1811139998941,2.7307452
+"[48.8476384997301, 2.2567827]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8476384997301,2.2567827
+"[48.8346551997333, 2.4067998]",Gratuit,Non,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8346551997333,2.4067998
+"[48.8444840997309, 2.3774551]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8444840997309,2.3774551
+"[48.839906599732, 2.3277394]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.839906599732,2.3277394
+"[48.68693929977, 2.0183176]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Choisel,78162,Yvelines,78,48.68693929977,2.0183176
+"[48.8216211997366, 2.3758928]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8216211997366,2.3758928
+"[48.8225664997363, 2.458468]",Gratuit,Non,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8225664997363,2.458468
+"[48.7858308997454, 2.3480755]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Villejuif,94076,Val-de-Marne,94,48.7858308997454,2.3480755
+"[48.4387267998313, 2.1383536]",Gratuit,pas d'info,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Étampes,91223,Essonne,91,48.4387267998313,2.1383536
+"[48.8587031997274, 2.3992102]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8587031997274,2.3992102
+"[48.3197946998604, 2.0888467]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Le Mérévillois,91390,Essonne,91,48.3197946998604,2.0888467
+"[48.5404711998062, 2.660456]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Melun,77288,Seine-et-Marne,77,48.5404711998062,2.660456
+"[48.5207305998111, 2.2656586]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Lardy,91330,Essonne,91,48.5207305998111,2.2656586
+"[48.8276452997351, 2.3114213]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8276452997351,2.3114213
+"[48.863107849741, 1.78776885001049]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Thoiry,78616,Yvelines,78,48.863107849741,1.78776885001049
+"[48.8340554997393, 2.48425799999913]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Nogent-sur-Marne,94052,Val-de-Marne,94,48.8340554997393,2.48425799999913
+"[48.948917528874, 2.46285146231856]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Le Blanc-Mesnil,93007,Seine-Saint-Denis,93,48.948917528874,2.46285146231856
+"[48.5834883250657, 2.80615701462626]",Gratuit,Non,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Champeaux,77082,Seine-et-Marne,77,48.5834883250657,2.80615701462626
+"[48.7817917497645, 2.22155069999987]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Vélizy-Villacoublay,78640,Yvelines,78,48.7817917497645,2.22155069999987
+"[48.8444566434017, 2.37690947110152]",Payant,Oui,2theloo,Toilettes publiques,pas d'info,Oui,Paris,75056,Paris,75,48.8444566434017,2.37690947110152
+"[48.9635529359944, 1.83678194285767]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Épône,78217,Yvelines,78,48.9635529359944,1.83678194285767
+"[48.8823772209572, 2.38277306574689]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8823772209572,2.38277306574689
+"[48.8555976900301, 2.78390277491264]",Gratuit,pas d'info,Toilettes Les Terrases,Toilettes publiques,pas d'info,Oui,Serris,77449,Seine-et-Marne,77,48.8555976900301,2.78390277491264
+"[48.8785865136033, 2.33671985387732]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8785865136033,2.33671985387732
+"[48.7784635277219, 2.32408163019357]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Bourg-la-Reine,92014,Hauts-de-Seine,92,48.7784635277219,2.32408163019357
+"[48.8770472997228, 2.3661187]",Gratuit,Non,pas d'info,Toilettes publiques (urinoir),pas d'info,pas d'info,Paris,75056,Paris,75,48.8770472997228,2.3661187
+"[49.0303556996848, 2.2284919]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Taverny,95607,Val-d'Oise,95,49.0303556996848,2.2284919
+"[48.8542701997285, 2.3546689]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8542701997285,2.3546689
+"[48.8978899, 2.0947665]",Payant,Oui,Station RER A - Saint-Germain-en-Laye - A proximité du palier haut de l'ascenseur desservant les voies 2 et 4.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Saint-Germain-en-Laye,78551,Yvelines,78,48.8978899,2.0947665
+"[48.75482748503882, 2.3008650705983067]",Gratuit,Oui,"Station RER B - Antony - Dans la salle d'échange, coté banlieue et point de vente - information",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Antony,92002,Hauts-de-Seine,92,48.75482748503882,2.3008650705983067
+"[48.90717445316718, 2.4492666955791327]",Gratuit,Non,Station metro 5 - Bobigny - Pablo Picasso - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Bobigny,93008,Seine-Saint-Denis,93,48.90717445316718,2.4492666955791327
+"[48.858291026403705, 2.3483281842513337]",Gratuit,Oui,Station RER A - Chatelet - A proximité des sorties en direction des lignes 7 et 11,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.858291026403705,2.3483281842513337
+"[48.78005093776892, 2.3121626259597874]",Gratuit,Oui,"Station RER B - Bourg-la-Reine - En milieu de quai central, direction Paris",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Bourg-la-Reine,92014,Hauts-de-Seine,92,48.78005093776892,2.3121626259597874
+"[48.8731477, 2.3295277]",Gratuit,Oui,Station RER A - Auber - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.8731477,2.3295277
+"[48.8915035997192, 2.3611019]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8915035997192,2.3611019
+"[48.8387518997323, 2.3215882]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8387518997323,2.3215882
+"[48.8636619997261, 2.3509604]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8636619997261,2.3509604
+"[48.8126049997388, 2.3874435]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Ivry-sur-Seine,94041,Val-de-Marne,94,48.8126049997388,2.3874435
+"[48.7867271997452, 2.0444538]",Payant,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Montigny-le-Bretonneux,78423,Yvelines,78,48.7867271997452,2.0444538
+"[48.7050943997655, 2.0450071]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Chevreuse,78160,Yvelines,78,48.7050943997655,2.0450071
+"[48.8347528997333, 2.357756]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8347528997333,2.357756
+"[48.8604893997269, 2.3425799]",pas d'info,Oui,IKEA,Toilettes dans un bâtiment recevant du public (Toilettes assises),Mo-Sa 10:00-20:00; Su 11:00-20:00,Oui,Paris,75056,Paris,75,48.8604893997269,2.3425799
+"[48.7773948997475, 2.2954035]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Sceaux,92071,Hauts-de-Seine,92,48.7773948997475,2.2954035
+"[48.839863799732, 2.3196159]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.839863799732,2.3196159
+"[48.8695160997247, 2.2258704]",Payant,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Suresnes,92073,Hauts-de-Seine,92,48.8695160997247,2.2258704
+"[48.8222951997364, 2.413801]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Charenton-le-Pont,94018,Val-de-Marne,94,48.8222951997364,2.413801
+"[48.7896397997445, 1.601915]",Gratuit,Non,pas d'info,Toilettes publiques,24/7,pas d'info,Houdan,78310,Yvelines,78,48.7896397997445,1.601915
+"[48.6188394997868, 2.2920272]",pas d'info,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Brétigny-sur-Orge,91103,Essonne,91,48.6188394997868,2.2920272
+"[48.3730309998474, 2.8160641]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Moret-Loing-et-Orvanne,77316,Seine-et-Marne,77,48.3730309998474,2.8160641
+"[48.9910228996946, 2.0886416]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Conflans-Sainte-Honorine,78172,Yvelines,78,48.9910228996946,2.0886416
+"[48.8833400997213, 2.3263118]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8833400997213,2.3263118
+"[48.8662171997255, 2.3999602]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8662171997255,2.3999602
+"[48.8374149997326, 2.3535402]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8374149997326,2.3535402
+"[48.8216656997365, 2.3482533]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8216656997365,2.3482533
+"[48.6885522997696, 2.1154142]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Gif-sur-Yvette,91272,Essonne,91,48.6885522997696,2.1154142
+"[48.8740086997236, 2.3273111]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8740086997236,2.3273111
+"[48.8296271997346, 2.3796219]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8296271997346,2.3796219
+"[49.1385960996581, 2.2778566]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Beaumont-sur-Oise,95052,Val-d'Oise,95,49.1385960996581,2.2778566
+"[48.9034924997162, 2.3670886]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Aubervilliers,93001,Seine-Saint-Denis,93,48.9034924997162,2.3670886
+"[48.861319314959, 2.33753452994192]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.861319314959,2.33753452994192
+"[48.8658166041793, 2.3240836421361]",Payant,Oui,Jeu de Paume,Toilettes dans un bâtiment recevant du public,Tu 11:00-21:00; We-Su 11:00-19:00,pas d'info,Paris,75056,Paris,75,48.8658166041793,2.3240836421361
+"[48.8399181162344, 2.44075801642964]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8399181162344,2.44075801642964
+"[48.8609578246214, 2.38750239734798]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8609578246214,2.38750239734798
+"[48.940987856322, 2.40191707949521]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,La Courneuve,93027,Seine-Saint-Denis,93,48.940987856322,2.40191707949521
+"[48.8699175360865, 2.41105927685934]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8699175360865,2.41105927685934
+"[48.9809215996971, 2.0627203]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Andrésy,78015,Yvelines,78,48.9809215996971,2.0627203
+"[48.8226284997363, 2.3288646]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),"PH,Mo-Su 00:00-23:59",pas d'info,Paris,75056,Paris,75,48.8226284997363,2.3288646
+"[48.8991902997173, 2.3701386]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),6:00-22:00,pas d'info,Paris,75056,Paris,75,48.8991902997173,2.3701386
+"[48.9006969997169, 2.3402542]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),6:00-22:00,pas d'info,Paris,75056,Paris,75,48.9006969997169,2.3402542
+"[48.8667549997254, 2.3833897]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8667549997254,2.3833897
+"[48.8676090505214, 2.77650528012313]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Chessy,77111,Seine-et-Marne,77,48.8676090505214,2.77650528012313
+"[48.8979364, 2.0948768]",Gratuit,Oui,Station RER A - Saint-Germain-en-Laye - A proximité du palier haut de l'ascenseur desservant les voies 2 et 4.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Saint-Germain-en-Laye,78551,Yvelines,78,48.8979364,2.0948768
+"[48.92317699378374, 2.28605910172606]",Gratuit,Oui,Station metro 13 - Les Agnettes - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Asnières-sur-Seine,92004,Hauts-de-Seine,92,48.92317699378374,2.28605910172606
+"[48.8622381, 2.345496]",Gratuit,Oui,"Station RER A - Chatelet - En partant de la zone RER vers la place Carrée et la ligne 4, à proximité des escaliers mécaniques.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.8622381,2.345496
+"[48.80784404743202, 2.3330228065226883]",Gratuit,Oui,"Station RER B - Laplace - A l'extérieur de la gare, à proximité du point de vente - information.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Arcueil,94003,Val-de-Marne,94,48.80784404743202,2.3330228065226883
+"[48.8205877, 2.3390071]",Gratuit,Non,Station RER B - Cite Universitaire - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.8205877,2.3390071
+"[48.83510877417377, 2.4716839161590887]",Gratuit,Oui,Station RER A - Nogent-sur-Marne - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Nogent-sur-Marne,94052,Val-de-Marne,94,48.83510877417377,2.4716839161590887
+"[48.78036417660201, 2.2816982237256243]",Gratuit,Oui,Station RER B - Robinson - Sur le quai 1.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Sceaux,92071,Hauts-de-Seine,92,48.78036417660201,2.2816982237256243
+"[48.6981859, 2.1367431]",Gratuit,Oui,"Station RER B - Gif-sur-Yvette - Sur le quai direction Paris,",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Gif-sur-Yvette,91272,Essonne,91,48.6981859,2.1367431
+"[48.86419500504601, 2.2878473386642373]",Gratuit,Oui,"Station metro 6 - Trocadero - Sortie 1, avenue du Président Wilson.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.86419500504601,2.2878473386642373
+"[48.8258179997355, 2.2699441]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,Oui,Issy-les-Moulineaux,92040,Hauts-de-Seine,92,48.8258179997355,2.2699441
+"[48.7052799997654, 2.0713617]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Saint-Rémy-lès-Chevreuse,78575,Yvelines,78,48.7052799997654,2.0713617
+"[48.9113885997143, 2.3827172]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Aubervilliers,93001,Seine-Saint-Denis,93,48.9113885997143,2.3827172
+"[48.8959112997181, 2.3891584]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,Oui,Paris,75056,Paris,75,48.8959112997181,2.3891584
+"[48.8660213997256, 2.35255]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8660213997256,2.35255
+"[48.880258999722, 2.3091521]",Gratuit,Non,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.880258999722,2.3091521
+"[48.8347074997333, 2.3410587]",Gratuit,Non,pas d'info,Toilettes publiques (urinoir),pas d'info,pas d'info,Paris,75056,Paris,75,48.8347074997333,2.3410587
+"[48.8297759997345, 2.3689798]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8297759997345,2.3689798
+"[48.8337839997336, 2.3198864]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8337839997336,2.3198864
+"[48.8865905997204, 2.3771585]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8865905997204,2.3771585
+"[48.5728618997982, 1.9375278]",Gratuit,Oui,Place Jean-Moulin,Toilettes publiques,pas d'info,pas d'info,Saint-Arnoult-en-Yvelines,78537,Yvelines,78,48.5728618997982,1.9375278
+"[48.8498327997296, 2.3230579]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8498327997296,2.3230579
+"[48.8443379997309, 2.38202]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8443379997309,2.38202
+"[48.8543014997285, 2.3050953]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8543014997285,2.3050953
+"[48.5610320998011, 3.2813255]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Provins,77379,Seine-et-Marne,77,48.5610320998011,3.2813255
+"[48.8749246997233, 2.3636604]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8749246997233,2.3636604
+"[48.868344599725, 2.3607784]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.868344599725,2.3607784
+"[48.7450728997555, 2.3487039]",Payant,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Rungis,94065,Val-de-Marne,94,48.7450728997555,2.3487039
+"[48.8673570997252, 2.3539614]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8673570997252,2.3539614
+"[48.8941277997186, 2.3517613]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8941277997186,2.3517613
+"[48.8541530997285, 2.3560326]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8541530997285,2.3560326
+"[48.8258802997355, 3.0923918]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Coulommiers,77131,Seine-et-Marne,77,48.8258802997355,3.0923918
+"[48.6429104997809, 2.0872065]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Limours,91338,Essonne,91,48.6429104997809,2.0872065
+"[48.8623388472866, 2.34220562006996]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8623388472866,2.34220562006996
+"[48.7771110466947, 2.52152067817713]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Ormesson-sur-Marne,94055,Val-de-Marne,94,48.7771110466947,2.52152067817713
+"[48.8616318050731, 2.33602566961118]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8616318050731,2.33602566961118
+"[48.8635489472862, 2.34246672006996]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,Oui,Paris,75056,Paris,75,48.8635489472862,2.34246672006996
+"[48.8410365518191, 2.31860122769983]",Payant,Oui,2theloo,Toilettes publiques,pas d'info,Oui,Paris,75056,Paris,75,48.8410365518191,2.31860122769983
+"[48.8704378997254, 2.38556264999932]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8704378997254,2.38556264999932
+"[48.8230295639403, 2.34852006312931]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8230295639403,2.34852006312931
+"[49.0213274996991, 1.5460854499995]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,La Villeneuve-en-Chevrie,78668,Yvelines,78,49.0213274996991,1.5460854499995
+"[48.8422211997314, 2.3547635]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8422211997314,2.3547635
+"[48.87122112118, 2.77697611942792]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Chessy,77111,Seine-et-Marne,77,48.87122112118,2.77697611942792
+"[48.85549704826123, 2.7736084332189748]",Gratuit,Oui,"Station RER A - Val d'Europe - En face du point de vente - information, à proximité de la ligne de valideurs.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Serris,77449,Seine-et-Marne,77,48.85549704826123,2.7736084332189748
+"[48.86849697024026, 2.7822597305629526]",Gratuit,Oui,Station RER A - Marne-la-Vallee - Chessy - Au milieu du quai central.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Chessy,77111,Seine-et-Marne,77,48.86849697024026,2.7822597305629526
+"[48.87445277569274, 2.2963258094953476]",Gratuit,Non,"Station metro 1 - Charles de Gaulle - Etoile - En entrant par l'accès 3, avenue Hoche, dans le couloir menant vers la sortie 2, avenue de Friedland.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Paris,75056,Paris,75,48.87445277569274,2.2963258094953476
+"[48.7887722997447, 2.4278974]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Alfortville,94002,Val-de-Marne,94,48.7887722997447,2.4278974
+"[49.0359631996834, 2.0795284]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Cergy,95127,Val-d'Oise,95,49.0359631996834,2.0795284
+"[48.8405139997319, 2.5465987]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Noisy-le-Grand,93051,Seine-Saint-Denis,93,48.8405139997319,2.5465987
+"[48.8992028997173, 2.2697189]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Courbevoie,92026,Hauts-de-Seine,92,48.8992028997173,2.2697189
+"[48.8330038997337, 2.3798232]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8330038997337,2.3798232
+"[48.9358419997082, 2.3460437]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Saint-Denis,93066,Seine-Saint-Denis,93,48.9358419997082,2.3460437
+"[49.0032352996915, 2.5778225]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,Oui,Le Mesnil-Amelot,77291,Seine-et-Marne,77,49.0032352996915,2.5778225
+"[48.9113168997143, 2.3827107]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Aubervilliers,93001,Seine-Saint-Denis,93,48.9113168997143,2.3827107
+"[48.8814688997217, 1.9242639]",pas d'info,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Crespières,78189,Yvelines,78,48.8814688997217,1.9242639
+"[48.4015178998404, 2.6975737]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,Oui,Fontainebleau,77186,Seine-et-Marne,77,48.4015178998404,2.6975737
+"[48.8648960997258, 2.3224922]",Gratuit,Oui,Toilettes des Tuileries,Toilettes publiques,Mo-Su 09:30-16:30,pas d'info,Paris,75056,Paris,75,48.8648960997258,2.3224922
+"[48.8620501997265, 2.2847637]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8620501997265,2.2847637
+"[48.8365173997329, 2.3754971]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8365173997329,2.3754971
+"[48.8528377997288, 2.2979912]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8528377997288,2.2979912
+"[48.5609460998011, 3.2900409]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Provins,77379,Seine-et-Marne,77,48.5609460998011,3.2900409
+"[48.8976260997177, 2.3589204]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8976260997177,2.3589204
+"[48.8856397997207, 2.326342]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8856397997207,2.326342
+"[48.7087471997646, 2.1581891]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Gif-sur-Yvette,91272,Essonne,91,48.7087471997646,2.1581891
+"[48.8425013997314, 2.376016]",Gratuit,Non,pas d'info,Toilettes publiques (urinoir),pas d'info,pas d'info,Paris,75056,Paris,75,48.8425013997314,2.376016
+"[48.7750144997481, 2.3020924]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Sceaux,92071,Hauts-de-Seine,92,48.7750144997481,2.3020924
+"[48.7980844997424, 2.3287023]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),Apr 01-Sep 15 08:00-19:00; Sep 16-Nov 02 08:00-18:00; Nov 03-Feb 28 08:00-17:00; Mar 08:00-18:00,pas d'info,Cachan,94016,Val-de-Marne,94,48.7980844997424,2.3287023
+"[48.8161357997379, 2.3883779]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Ivry-sur-Seine,94041,Val-de-Marne,94,48.8161357997379,2.3883779
+"[48.2694814998727, 2.6965461]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Nemours,77333,Seine-et-Marne,77,48.2694814998727,2.6965461
+"[48.9708742996995, 2.305549]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Enghien-les-Bains,95210,Val-d'Oise,95,48.9708742996995,2.305549
+"[48.8494780997297, 2.3661248]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8494780997297,2.3661248
+"[48.7895723997445, 2.3668254]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Villejuif,94076,Val-de-Marne,94,48.7895723997445,2.3668254
+"[48.960781099702, 2.8779583]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Meaux,77284,Seine-et-Marne,77,48.960781099702,2.8779583
+"[49.0314961996845, 2.4633703]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Goussainville,95280,Val-d'Oise,95,49.0314961996845,2.4633703
+"[48.8648335997258, 2.3516182]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8648335997258,2.3516182
+"[48.6917417997688, 2.3763211]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Juvisy-sur-Orge,91326,Essonne,91,48.6917417997688,2.3763211
+"[48.5558793998024, 3.3017778]",Gratuit,Oui,pas d'info,Toilettes publiques,24/7,pas d'info,Provins,77379,Seine-et-Marne,77,48.5558793998024,3.3017778
+"[48.9114146997143, 2.2875724]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Asnières-sur-Seine,92004,Hauts-de-Seine,92,48.9114146997143,2.2875724
+"[48.9419592997067, 2.2537372]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Argenteuil,95018,Val-d'Oise,95,48.9419592997067,2.2537372
+"[48.8062120997404, 2.2350875]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Meudon,92048,Hauts-de-Seine,92,48.8062120997404,2.2350875
+"[48.8061947997404, 2.0606938]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Saint-Cyr-l'École,78545,Yvelines,78,48.8061947997404,2.0606938
+"[48.8645303287596, 2.4168296442318]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Bagnolet,93006,Seine-Saint-Denis,93,48.8645303287596,2.4168296442318
+"[48.8053557241807, 2.24184995875071]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Meudon,92048,Hauts-de-Seine,92,48.8053557241807,2.24184995875071
+"[48.8185812441675, 2.35493844746802]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8185812441675,2.35493844746802
+"[48.8633383921236, 2.34346056279919]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,Oui,Paris,75056,Paris,75,48.8633383921236,2.34346056279919
+"[48.9380722803406, 2.01318623630009]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Carrières-sous-Poissy,78123,Yvelines,78,48.9380722803406,2.01318623630009
+"[48.8770601997228, 2.3661018]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8770601997228,2.3661018
+"[48.892495899719, 2.2401837]",Payant,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Puteaux,92062,Hauts-de-Seine,92,48.892495899719,2.2401837
+"[48.4148988998371, 3.2397562]",pas d'info,pas d'info,pas d'info,Toilettes publiques,24/7,pas d'info,Bray-sur-Seine,77051,Seine-et-Marne,77,48.4148988998371,3.2397562
+"[48.8696799997247, 2.3711689]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),24/7,pas d'info,Paris,75056,Paris,75,48.8696799997247,2.3711689
+"[48.8536344997286, 2.3589478]",Gratuit,pas d'info,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8536344997286,2.3589478
+"[48.9103191714048, 2.29749931689227]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Asnières-sur-Seine,92004,Hauts-de-Seine,92,48.9103191714048,2.29749931689227
+"[48.725109, 2.2606361]",Gratuit,Oui,"Station RER B - Massy - Palaiseau - A l'extérieur du bâtiment gare, à proximité du point de vente - information, côté autobus.",Toilette publique  RATP_x000D_,pas d'info,pas d'info,Massy,91377,Essonne,91,48.725109,2.2606361
+"[48.93074305254229, 2.283951123396349]",Gratuit,Oui,Station metro 13 - Asnieres-Gennevilliers - Les Courtilles - A proximité du point de vente - information.,Toilette publique  RATP_x000D_,pas d'info,pas d'info,Asnières-sur-Seine,92004,Hauts-de-Seine,92,48.93074305254229,2.283951123396349
+"[48.8062143997404, 2.0607592]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Saint-Cyr-l'École,78545,Yvelines,78,48.8062143997404,2.0607592
+"[48.7739222997484, 2.3021866]",Gratuit,Non,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Sceaux,92071,Hauts-de-Seine,92,48.7739222997484,2.3021866
+"[48.8469811997303, 2.3281654]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8469811997303,2.3281654
+"[48.8833314997212, 2.1299624]",pas d'info,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Le Vésinet,78650,Yvelines,78,48.8833314997212,2.1299624
+"[48.8694835997247, 2.3247334]",Payant,Non,Lavatory Madeleine,Toilettes publiques,10:00-18:00,pas d'info,Paris,75056,Paris,75,48.8694835997247,2.3247334
+"[48.9122510997141, 2.0326597]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Chambourcy,78133,Yvelines,78,48.9122510997141,2.0326597
+"[48.7183428997622, 2.4524921]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Crosne,91191,Essonne,91,48.7183428997622,2.4524921
+"[48.8302574997344, 2.3752633]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8302574997344,2.3752633
+"[48.8491194997297, 2.3522239]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8491194997297,2.3522239
+"[48.8653064997257, 2.4687722]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Montreuil,93048,Seine-Saint-Denis,93,48.8653064997257,2.4687722
+"[49.0723066996744, 2.55159]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,Oui,Vémars,95641,Val-d'Oise,95,49.0723066996744,2.55159
+"[48.7545542997532, 2.1581518]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Jouy-en-Josas,78322,Yvelines,78,48.7545542997532,2.1581518
+"[48.759457999752, 2.2816582]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Antony,92002,Hauts-de-Seine,92,48.759457999752,2.2816582
+"[48.9275748997103, 2.0435849]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Poissy,78498,Yvelines,78,48.9275748997103,2.0435849
+"[48.6420000997811, 2.087578]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Limours,91338,Essonne,91,48.6420000997811,2.087578
+"[48.8977160997177, 2.3765968]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8977160997177,2.3765968
+"[48.8376480997326, 2.3634609]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8376480997326,2.3634609
+"[48.4230222998351, 2.7488438]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Samoreau,77442,Seine-et-Marne,77,48.4230222998351,2.7488438
+"[48.7457610997554, 2.289881]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Antony,92002,Hauts-de-Seine,92,48.7457610997554,2.289881
+"[48.8582512387746, 2.26832119211372]",Gratuit,Non,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8582512387746,2.26832119211372
+"[48.8600943787978, 2.35196849454768]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Paris,75056,Paris,75,48.8600943787978,2.35196849454768
+"[48.8621818311509, 2.33604675803996]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8621818311509,2.33604675803996
+"[48.8602207599762, 2.33427801585824]",pas d'info,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8602207599762,2.33427801585824
+"[48.9060310863738, 2.30355268105361]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Clichy,92024,Hauts-de-Seine,92,48.9060310863738,2.30355268105361
+"[48.9464179488936, 2.46432461675452]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Le Blanc-Mesnil,93007,Seine-Saint-Denis,93,48.9464179488936,2.46432461675452
+"[48.971941487552, 2.25824479013014]",Gratuit,pas d'info,pas d'info,Toilettes publiques,pas d'info,pas d'info,Sannois,95582,Val-d'Oise,95,48.971941487552,2.25824479013014
+"[48.8222644920452, 2.3236024254551]",Gratuit,Oui,pas d'info,Toilettes publiques,pas d'info,pas d'info,Paris,75056,Paris,75,48.8222644920452,2.3236024254551
+"[48.8933342065115, 2.29937823023181]",Gratuit,Oui,pas d'info,Toilettes publiques (Toilettes assises),pas d'info,pas d'info,Levallois-Perret,92044,Hauts-de-Seine,92,48.8933342065115,2.29937823023181
