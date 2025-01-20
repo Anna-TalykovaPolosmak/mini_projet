@@ -1,7 +1,7 @@
-🚽 ToilettesIDF - Optimisation des sanitaires en Île-de-France
-📝 Description
+### 🚽 ToilettesIDF - Optimisation des sanitaires en Île-de-France
+### 📝 Description
 Une application web innovante à double objectif : permettre aux habitants et touristes de l'Île-de-France de localiser facilement les toilettes publiques, tout en proposant une analyse cartographique des zones nécessitant de nouvelles installations. Grâce à l'analyse spatiale de Voronoï, nous offrons à la fois un service pratique aux usagers et un outil d'aide à la décision pour l'implantation de nouveaux équipements.
-✨ Fonctionnalités principales
+### ✨ Fonctionnalités principales
 🔍 Pour les utilisateurs
 
 Localisation rapide des toilettes les plus proches
