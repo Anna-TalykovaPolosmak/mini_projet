@@ -1,7 +1,14 @@
-🚽 Toilettes à Paris - Application de localisation intelligente
-### 📝 Description
-Une application web moderne qui aide les Parisiens et les touristes à localiser facilement les toilettes publiques à Paris. Utilisant une approche innovante basée sur l'analyse spatiale de Voronoï, l'application non seulement permet de trouver les toilettes les plus proches, mais suggère également des emplacements optimaux pour de nouvelles installations.
-### ✨ Fonctionnalités principales
+🚽 ToilettesIDF - Optimisation des sanitaires en Île-de-France
+📝 Description
+Une application web innovante à double objectif : permettre aux habitants et touristes de l'Île-de-France de localiser facilement les toilettes publiques, tout en proposant une analyse cartographique des zones nécessitant de nouvelles installations. Grâce à l'analyse spatiale de Voronoï, nous offrons à la fois un service pratique aux usagers et un outil d'aide à la décision pour l'implantation de nouveaux équipements.
+✨ Fonctionnalités principales
+🔍 Pour les utilisateurs
+
+Localisation rapide des toilettes les plus proches
+Recherche simple par adresse
+Filtres pratiques (gratuité, accessibilité PMR, équipements bébé)
+Informations détaillées sur chaque installation
+Distance et temps de marche estimé
 
 ### 🔍 Recherche géolocalisée : Trouvez les toilettes les plus proches de votre position
 ### ⚡ Filtres intelligents :
