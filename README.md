@@ -1,10 +1,10 @@
 🚽 Toilettes à Paris - Application de localisation intelligente
-📝 Description
+### 📝 Description
 Une application web moderne qui aide les Parisiens et les touristes à localiser facilement les toilettes publiques à Paris. Utilisant une approche innovante basée sur l'analyse spatiale de Voronoï, l'application non seulement permet de trouver les toilettes les plus proches, mais suggère également des emplacements optimaux pour de nouvelles installations.
-✨ Fonctionnalités principales
+### ✨ Fonctionnalités principales
 
-🔍 Recherche géolocalisée : Trouvez les toilettes les plus proches de votre position
-⚡ Filtres intelligents :
+### 🔍 Recherche géolocalisée : Trouvez les toilettes les plus proches de votre position
+### ⚡ Filtres intelligents :
 
 Gratuit / Payant
 Accessibilité PMR
@@ -12,8 +12,8 @@ Accessibilité PMR
 Distance personnalisable
 
 
-📊 Analyse spatiale : Visualisation des zones optimales pour de nouvelles installations
-🗺️ Interface cartographique intuitive :
+### 📊 Analyse spatiale : Visualisation des zones optimales pour de nouvelles installations
+### 🗺️ Interface cartographique intuitive :
 
 Marqueurs distinctifs pour les toilettes existantes
 Indication claire des distances
@@ -21,27 +21,27 @@ Informations détaillées sur chaque installation
 
 
 
-🛠️ Technologies utilisées
+### 🛠️ Technologies utilisées
 
 Backend : Python, Streamlit
 Cartographie : Folium, OpenStreetMap
 Analyse spatiale : Algorithme de Voronoï
 Données : Base de données des équipements publics de la Ville de Paris
 
-💡 Innovations
+### 💡 Innovations
 
 Analyse prédictive : Utilisation de l'algorithme de Voronoï pour identifier les zones sous-équipées
 Interface moderne : Design épuré avec thème sombre et effets de glassmorphisme
 Expérience utilisateur optimisée : Filtres intuitifs et retour visuel immédiat
 
-📈 Perspectives d'évolution
+### 📈 Perspectives d'évolution
 
 Intégration des horaires en temps réel
 Système de notation et commentaires
 Version mobile native
 Extension à d'autres villes françaises
 
-🎯 Public cible
+### 🎯 Public cible
 
 Résidents parisiens
 Touristes
@@ -49,7 +49,7 @@ Personnes à mobilité réduite
 Parents avec jeunes enfants
 Urbanistes et décideurs publics
 
-🔍 Comment utiliser
+### 🔍 Comment utiliser
 
 Entrez votre localisation ou une adresse à Paris
 Ajustez les filtres selon vos besoins (distance, accessibilité, etc.)
@@ -57,7 +57,7 @@ Visualisez les toilettes disponibles sur la carte
 Cliquez sur les marqueurs pour plus d'informations
 Consultez l'onglet d'analyse pour voir les zones de développement potentielles
 
-🤝 Contribution
+### 🤝 Contribution
 Les contributions sont les bienvenues ! N'hésitez pas à :
 
 Signaler des bugs
@@ -65,12 +65,12 @@ Proposer des nouvelles fonctionnalités
 Améliorer la documentation
 Partager vos idées d'amélioration
 
-📄 Licence
+### 📄 Licence
 Ce projet est sous licence MIT - voir le fichier LICENSE.md pour plus de détails.
-👥 Équipe
+### 👥 Équipe
 Développé avec ❤️ pour rendre Paris plus accessible à tous.
 
-📊 Statistiques du projet
+### 📊 Statistiques du projet
 
 455 toilettes référencées
 Couverture de tous les arrondissements parisiens
