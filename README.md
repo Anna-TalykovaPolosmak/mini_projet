@@ -82,6 +82,8 @@ Développé avec ❤️ pour rendre Paris plus accessible à tous.
 455 toilettes référencées
 Couverture de tous les arrondissements parisiens
 Mise à jour régulière des données
+![image](https://github.com/user-attachments/assets/1d119268-5713-4f88-818e-3b74360f2d78)
+
 
 ### 🌟 Remerciements
 Un grand merci à :
